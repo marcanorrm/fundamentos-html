@@ -1,1 +1,24 @@
-css
+/* selector por tag */
+h2 {
+    color:rgb(201, 0, 0);
+    
+}
+/* cambiar color de una etiqueta p dentro de un parrafo */
+/* selector por tag */
+article p {
+    color: rgb(0, 255, 0);
+}
+h1{
+    color: crimson;
+}
+footer{
+    color: rgb(43, 0, 255);
+}
+/* selector por clase */
+.subtitle{
+    color: blueviolet;
+}
+/* selector por id */
+#subtitle2 {
+    color: seagreen;
+}
